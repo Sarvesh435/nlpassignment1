@@ -3,8 +3,8 @@ Group: Chimera
 
 ### Members:
 
-1. Sarvesh .... (Matrikelnr) 
-2. Fatihah Ulya Hakiem (124734)
+1. Fatihah Ulya Hakiem (124734)
+2. Sarvesh Kumar Singh (124773) 
 
 ### How to run:
 
